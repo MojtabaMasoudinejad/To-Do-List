@@ -29,18 +29,10 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+### `The Screenshots of the project Can be found here`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+* Main Page
+<img width="952" alt="01" src="https://github.com/MojtabaMasoudinejad/To-Do-List/assets/100486854/b935c4df-2c78-42cb-9f8b-d3f42941c875">
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+* Making New Note
+  <img width="950" alt="02" src="https://github.com/MojtabaMasoudinejad/To-Do-List/assets/100486854/7c80ab89-a41b-4af6-a131-706737a86883">
