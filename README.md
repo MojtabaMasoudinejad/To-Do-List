@@ -31,17 +31,17 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `The Screenshots of the project Can be found here`
 
-* Main Page
+## Main Page
 <img width="952" alt="01" src="https://github.com/MojtabaMasoudinejad/To-Do-List/assets/100486854/b935c4df-2c78-42cb-9f8b-d3f42941c875">
 
 ## Making New Note Page
   <img width="950" alt="02" src="https://github.com/MojtabaMasoudinejad/To-Do-List/assets/100486854/7c80ab89-a41b-4af6-a131-706737a86883">
 
 
-* Specific Note Page
+## Specific Note Page
   <img width="969" alt="03" src="https://github.com/MojtabaMasoudinejad/To-Do-List/assets/100486854/9d16fcac-f01b-413a-b033-d851b69f27fc">
 
 
 
-* Edit Note Page
+## Edit Note Page
   <img width="955" alt="04" src="https://github.com/MojtabaMasoudinejad/To-Do-List/assets/100486854/8215c732-1d35-4efc-90ef-7ca0f3b96343">
