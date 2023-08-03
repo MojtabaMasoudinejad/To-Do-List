@@ -36,7 +36,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 * Making New Note Page
   <img width="950" alt="02" src="https://github.com/MojtabaMasoudinejad/To-Do-List/assets/100486854/7c80ab89-a41b-4af6-a131-706737a86883">
-
+<br/>
 * Specific Note Page
   <img width="969" alt="03" src="https://github.com/MojtabaMasoudinejad/To-Do-List/assets/100486854/9d16fcac-f01b-413a-b033-d851b69f27fc">
 
